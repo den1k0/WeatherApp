@@ -1,0 +1,23 @@
+{
+    "english":{
+        "Enter":"Enter Location Here",
+        "Feels":"Feels Like",
+        "Humidity":"Humidity",
+        "Wind":"Wind Speed",
+        "Pressure":"Perssure"
+    },
+    "russian":{
+        "Enter":"Введите Местоположение",
+        "Feels":"Ощущается Как",
+        "Humidity":"Влажность",
+        "Wind":"Скорость Ветра",
+        "Pressure":"Давление"
+    },
+    "estonian":{
+        "Enter":"Sisestage Asukoht Siia",
+        "Feels":"Tundub Nagu",
+        "Humidity":"Niiskus",
+        "Wind":"Tuule kiirus",
+        "Pressure":"Surve"
+    }
+}
