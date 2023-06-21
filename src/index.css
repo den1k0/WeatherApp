@@ -40,7 +40,7 @@ h1 {
   height: 100vh;
   position: relative;
   background-color: var(--body_background);
-  color: var(--font_color);
+  color: rgba(240,240,240);
 }
 
 .options{
